@@ -1,0 +1,6 @@
+openai
+pandas
+pyarrow
+tqdm
+ujson
+python-dotenv
